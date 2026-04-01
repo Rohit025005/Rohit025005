@@ -38,5 +38,6 @@ I try to stay honest about what I know, learn fast when I do not, and focus on b
 [rohit025005.github.io](https://rohit025005.github.io/)
 
 ## Contact
-- GitHub: [@rohit025005](https://github.com/rohit025005)
-- Portfolio: [rohit025005.github.io](https://rohit025005.github.io/)
+
+-email:[](rohitsarwadikar@gmail.com)
+-linkedIn:[Rohit Sarwadikar](https://www.linkedin.com/in/rohit-sarwadikar-117234331/)
