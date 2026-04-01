@@ -39,5 +39,5 @@ I try to stay honest about what I know, learn fast when I do not, and focus on b
 
 ## Contact
 
--email:[](rohitsarwadikar@gmail.com)
+-email:[rohitsarwadikar@gmail.com](rohitsarwadikar@gmail.com)
 -linkedIn:[Rohit Sarwadikar](https://www.linkedin.com/in/rohit-sarwadikar-117234331/)
