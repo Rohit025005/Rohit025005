@@ -1,4 +1,4 @@
-# Hi there 👋
+YO!!
 
 I am a CSE undergraduate who likes building things that are useful, clean, and actually work in real environments.
 
