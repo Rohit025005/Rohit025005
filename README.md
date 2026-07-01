@@ -3,9 +3,10 @@
 
 
 ### Stack
-**Languages:** Python, C++,Java, JavaScript/TypeScript, Go (learning)  
+**Languages:** Python,Java, JavaScript/TypeScript,C++
 **Web:** Next.js, React, Node.js, Express, FastAPI ,SpringBoot 
 **Databases:** PostgreSQL/MySQL, MongoDB, Firebase  
+
 
 
 
