@@ -6,7 +6,7 @@
 **Languages:** Python, C++,Java, JavaScript/TypeScript, Go (learning)  
 **Web:** Next.js, React, Node.js, Express, FastAPI ,SpringBoot 
 **Databases:** PostgreSQL/MySQL, MongoDB, Firebase  
-**Tools:** Git, Linux, VS Code
+
 
 
 
